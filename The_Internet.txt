@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-09T18:46:25+01:00
+
+====== The Internet ======
+Created Friday 09 February 2018
+
+[[+Eggs benedict]]
